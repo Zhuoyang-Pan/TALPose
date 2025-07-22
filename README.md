@@ -1,8 +1,8 @@
-# `TALPOSE`: Tracker-Assisted Labeling for Dense Pose Annotation in Videos
+# `TALPose`: Tracker-Assisted Labeling for Dense Pose Annotation in Videos
 **[Project page](https://zhuoyang-pan.github.io/animal-labeling/) &bull;
 [arXiv](https://arxiv.org/abs/2506.03868)**
 
-`TALPOSE` is a tracker-assisted labeling tool for annotating keypoints in video sequences. It leverages test-time optimization on general-purpose point trackers to efficiently generate dense pose annotations from sparse labels. This tool was originally developed for animal pose labeling, but it is also applicable to any video sequence where keypoints need to be annotated.
+`TALPose` is a tracker-assisted labeling tool for annotating keypoints in video sequences. It leverages test-time optimization on general-purpose point trackers to efficiently generate dense pose annotations from sparse labels. This tool was originally developed for animal pose labeling, but it is also applicable to any video sequence where keypoints need to be annotated.
 
 TALPose is based on our paper:
 [Animal Pose Labeling Using General-Purpose Point Trackers](https://arxiv.org/abs/2506.03868), presented at CV4Animals@CVPR 2025.
