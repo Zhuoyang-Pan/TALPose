@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+numpy
+imageio[ffmpeg]
+matplotlib
+python-multipart
