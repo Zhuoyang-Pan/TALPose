@@ -1,4 +1,4 @@
-# `TALPose`: Tracker-Assisted Labeling for Dense Pose Annotation in Videos
+# `TALPose`: Tracker-Assisted Point Labeling for Pose Annotation in Videos
 **[Project page](https://zhuoyang-pan.github.io/animal-labeling/) &bull;
 [arXiv](https://arxiv.org/abs/2506.03868)**
 
