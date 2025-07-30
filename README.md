@@ -1,10 +1,10 @@
-# `TALPose`: Tracker-Assisted Point Labeling for Pose Annotation in Videos
+# `PosePAL`: Pose annotation with Point tracking Assisted Labeling
 **[Project page](https://zhuoyang-pan.github.io/animal-labeling/) &bull;
 [arXiv](https://arxiv.org/abs/2506.03868)**
 
-`TALPose` is a tracker-assisted labeling tool for annotating keypoints in video sequences. It leverages test-time optimization on general-purpose point trackers to efficiently generate dense pose annotations from sparse labels. This tool was originally developed for animal pose labeling, but it is also applicable to any video sequence where keypoints need to be annotated.
+`PosePAL` is a tracker-assisted labeling tool for annotating keypoints in video sequences. It leverages test-time optimization on general-purpose point trackers to efficiently generate temporally dense pose annotations from sparse labels. This tool was originally developed for animal pose labeling, but it is also applicable to any video sequence where keypoints need to be annotated.
 
-TALPose is based on our paper:
+PosePAL is based on our paper:
 [Animal Pose Labeling Using General-Purpose Point Trackers](https://arxiv.org/abs/2506.03868), presented at CV4Animals@CVPR 2025.
 
 ## 🛠️ Workflow
@@ -40,8 +40,8 @@ https://github.com/user-attachments/assets/8fe7f6e0-2a9a-4f33-8526-c64d47550e23
 ## Installation 
 1. Clone the repository and the dependencies
 ```
-git clone https://github.com/Zhuoyang-Pan/TALPose.git --recursive
-cd TALPose
+git clone https://github.com/Zhuoyang-Pan/PosePAL.git --recursive
+cd PosePAL
 ```
 
 2. Download the pre-trained model of cotracker
